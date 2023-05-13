@@ -54,7 +54,7 @@ public class crearMateria extends javax.swing.JInternalFrame {
         jLabel3.setText("Nombre:");
 
         jLabel4.setForeground(new java.awt.Color(0, 0, 0));
-        jLabel4.setText("Ano:");
+        jLabel4.setText("Año:");
 
         jButton1.setText("Guardar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
