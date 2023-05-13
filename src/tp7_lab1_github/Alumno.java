@@ -3,14 +3,14 @@ package tp7_lab1_github;
 import java.util.HashSet;
 
 public class Alumno {
+
     private int legajo;
     private String apellido;
     private String nombreCompleto;
     private String nombre;
-     
-    public  HashSet<String> materias =new HashSet<>();
 
-    
+    public HashSet<String> materias = new HashSet<>();
+
     public Alumno(int legajo, String apellido, String nombre) {
         this.legajo = legajo;
         this.apellido = apellido;
@@ -57,12 +57,12 @@ public class Alumno {
         this.nombreCompleto = nombreCompleto;
     }
 
-    public void agregarMateria(String materia){
+    public void agregarMateria(String materia) {
         materias.add(materia);
     }
-    
-    public int cantidadMaterias(){
-       
+
+    public int cantidadMaterias() {
+
         return materias.size();
     }
 
