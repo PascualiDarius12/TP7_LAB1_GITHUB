@@ -5,12 +5,11 @@ package tp7_lab1_github;
 public class Materia {
    private int idMateria;
    private String nombre;
-   private int anio;
-
+   private int año;
     public Materia(int idMateria, String nombre, int anio) {
         this.idMateria = idMateria;
         this.nombre = nombre;
-        this.anio = anio;
+        this.año = año;
     }
 
     public int getIdMateria() {
@@ -30,11 +29,11 @@ public class Materia {
     }
 
     public int getAnio() {
-        return anio;
+        return año;
     }
 
     public void setAnio(int anio) {
-        this.anio = anio;
+        this.año = año;
     }
    
    
