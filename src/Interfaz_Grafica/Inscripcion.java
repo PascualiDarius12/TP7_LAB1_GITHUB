@@ -10,6 +10,7 @@ import javax.swing.ComboBoxModel;
 import javax.swing.JOptionPane;
 import javax.swing.event.ListDataListener;
 import tp7_lab1_github.Alumno;
+import tp7_lab1_github.Materia;
 
 
 /**

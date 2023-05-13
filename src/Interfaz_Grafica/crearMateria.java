@@ -7,6 +7,7 @@ package Interfaz_Grafica;
 
 import tp7_lab1_github.Materia;
 import javax.swing.JOptionPane;
+import tp7_lab1_github.Materia;
 
 
 /**
