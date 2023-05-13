@@ -1,6 +1,7 @@
 
 package tp7;
 
+import tp7_lab1_github.Materia;
 import java.util.HashMap;
 import java.util.HashSet;
 
