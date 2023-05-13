@@ -9,7 +9,7 @@ package tp7_lab1_github;
  *
  * @author 54266
  */
-public class TP7_LAB1_GITHUB {
+public class Colegio {
 
     /**
      * @param args the command line arguments
